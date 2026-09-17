@@ -1,4 +1,5 @@
 app.log
 secrets.json
-
-*.log
+Git.2/
+styles.css
+testremotefile
