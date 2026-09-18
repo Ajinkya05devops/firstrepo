@@ -4,6 +4,6 @@ print("jenkins build is  working")
 def add(a, b):
     return a + b
 
-print(f"10 + 20 = {add(14,17)}")
+print(f"14 + 17 = {add(14,17)}")
 
 
